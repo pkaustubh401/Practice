@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(226, 173, 0);
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(46, 46, 46);
+}
+
+.navbar a {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: rgb(226, 173, 0);
+  font-size: 20px;
+  font-weight: 400;
+}
